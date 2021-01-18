@@ -10,6 +10,16 @@ namespace TypeRacerGame
     {
         static void Main(string[] args)
         {
+            var TextViewer = new TextViewer();
+            var UserInput = new UserInput();
+            var SentenceVerifier = new SentenceVerifier();
+            
+            string sentence = TextViewer.showText();
+            string text = UserInput.userInput();
+
+            SentenceVerifier.verify(text, sentence);
+
+            Console.ReadKey();
         }
     }
 }

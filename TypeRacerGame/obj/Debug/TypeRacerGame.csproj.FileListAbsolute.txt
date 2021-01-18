@@ -1,0 +1,7 @@
+C:\Users\jan34\source\repos\TypeRacerGame\TypeRacerGame\bin\Debug\TypeRacerGame.exe.config
+C:\Users\jan34\source\repos\TypeRacerGame\TypeRacerGame\bin\Debug\TypeRacerGame.exe
+C:\Users\jan34\source\repos\TypeRacerGame\TypeRacerGame\bin\Debug\TypeRacerGame.pdb
+C:\Users\jan34\source\repos\TypeRacerGame\TypeRacerGame\obj\Debug\TypeRacerGame.csprojAssemblyReference.cache
+C:\Users\jan34\source\repos\TypeRacerGame\TypeRacerGame\obj\Debug\TypeRacerGame.csproj.CoreCompileInputs.cache
+C:\Users\jan34\source\repos\TypeRacerGame\TypeRacerGame\obj\Debug\TypeRacerGame.exe
+C:\Users\jan34\source\repos\TypeRacerGame\TypeRacerGame\obj\Debug\TypeRacerGame.pdb
